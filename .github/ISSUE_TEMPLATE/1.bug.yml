@@ -10,9 +10,9 @@ body:
         * If you need help, you can ask in the [discussions] section or in [#tech-support]
         * **Thoroughly search the [existing issues] before creating a new one**
         * Read our [wiki page on Contributing]
-        [backlog]: https://github.com/orgs/MedGen/projects/1
-        [roadmap]: https://github.com/orgs/MedGen/projects/2
-        [discussions]: https://github.com/MedGen/Med-FLSys/discussions
+        [backlog]: https://github.com/orgs/GenMed/projects/1
+        [roadmap]: https://github.com/orgs/GenMed/projects/2
+        [discussions]: https://github.com/GenMed/Med-FLSys/discussions
         [existing issues]: https://github.com/GenMed/Med-FLSys/issues?q=is%3Aissue
 
   - type: checkboxes
@@ -72,8 +72,8 @@ body:
       label: Which version of Med-FLSys are you using?
       description: |
         Please select which version of Med-FLSys you were using when this issue occurred.
-        If you downloaded the code from the [releases page](https://github.com/MedGen/Med-FLSys/releases/) make sure you were using the latest code. 
-        **If you weren't please try with the [latest code](https://github.com/MedGen/Med-FLSys/releases/)**.
+        If you downloaded the code from the [releases page](https://github.com/GenMed/Med-FLSys/releases/) make sure you were using the latest code. 
+        **If you weren't please try with the [latest code](https://github.com/GenMed/Med-FLSys/releases/)**.
         If installed with git you can run `git branch` to see which version of Med-FLSys you are running.
       options:
         - Latest Release
@@ -87,7 +87,7 @@ body:
       label: Do you use Costume model or our fundation base models?
       description: >
         If you are using Med-FLSys with `--gpt3only`, your problems may be caused by
-        the [limitations](https://github.com/MedGen/Med-FLSys/issues/).
+        the [limitations](https://github.com/GenMed/Med-FLSys/issues/).
       options:
         - based-mosdel
         - Costume-model
@@ -121,7 +121,6 @@ body:
           attributes:
             label: Specify the area
             description: Please specify the area you think is best related to the issue.
-
   - type: textarea
     attributes:
       label: Describe your issue.
