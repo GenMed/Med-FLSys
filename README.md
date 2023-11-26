@@ -2,7 +2,7 @@
 Open source Federated Learning Framework Distributed Modelling AI Low-Rank 
 
 <div align="center">
-<img src="assets/Logo.png" alt="LoRa-Logo" width="500" height="180">
+<img src="assets/Logo.png" alt="LoRa-Logo" width="500" height="175">
 
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/GenMed/Med-FLSys)
 [![GitHub issues](https://img.shields.io/github/issues/GenMed/Med-FLSys/issues)](https://github.com/GenMed/Med-FLSys/issues) 
