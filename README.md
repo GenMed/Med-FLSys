@@ -2,13 +2,13 @@
 Open source Federated Learning Framework Distributed Modelling AI Low-Rank 
 
 <div align="center">
-<img src="assets/LogoFL.png" alt="LoRa-Logo" width="300" height="100">
+<img src="assets/Logo.png" alt="LoRa-Logo" width="400" height="120">
 
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/GenMed/Med-FLSys)
 [![GitHub issues](https://img.shields.io/github/issues/Med-FLSys/issues)](https://github.com/GenMed/Med-FLSys/issues) 
-[![GitHub forks](https://img.shields.io/github/forks/Med-FLSys)](https://github.com/GenMed/Med-FLSys) 
-[![GitHub stars](https://img.shields.io/github/stars/Med-FLSys)](https://github.com/GenMed/Med-FLSys/) 
-[![GitHub license](https://img.shields.io/github/license/GenMed/Med-FLSys/)](https://github.com/GenMed/Med-FLSys/blob/master/LICENSE)
+[![GitHub forks](https://img.shields.io/github/forks/GenMed/Med-FLSys)](https://github.com/GenMed/Med-FLSys/forks) 
+[![GitHub stars](https://img.shields.io/github/stars/GenMed/Med-FLSys)](https://github.com/GenMed/Med-FLSys/) 
+[![GitHub license](https://img.shields.io/github/license/GenMed/Med-FLSys/)](https://github.com/GenMed/Med-FLSys/blob/main/LICENSE)
 </div>
 
 
