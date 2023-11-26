@@ -2,7 +2,7 @@
 Open source Federated Learning Framework Distributed Modelling AI Low-Rank 
 
 <div align="center">
-<img src="assets/Logo.png" alt="LoRa-Logo" width="500" height="175">
+<img src="assets/Logo.png" alt="LoRa-Logo" width="500" height="170">
 
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/GenMed/Med-FLSys)
 [![GitHub issues](https://img.shields.io/github/issues/GenMed/Med-FLSys/issues)](https://github.com/GenMed/Med-FLSys/issues) 
@@ -53,3 +53,5 @@ We welcome contributions from the community. Please follow the guidelines in the
 #### License
 
 Med-FLSys is released under the [Apache license] license. See the License section for details.
+
+
