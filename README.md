@@ -1,14 +1,14 @@
-# Med-FLSys - Open Source Federated Learning Framewwork 
+# Med-FLSys - Open Source Federated Learning Framework 
 Open source Federated Learning Framework Distributed Modelling AI Low-Rank 
 
 <div align="center">
-<img src="assets/Logo.png" alt="LoRa-Logo" width="400" height="120">
+<img src="assets/Logo.png" alt="LoRa-Logo" width="500" height="220">
 
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/GenMed/Med-FLSys)
-[![GitHub issues](https://img.shields.io/github/issues/Med-FLSys/issues)](https://github.com/GenMed/Med-FLSys/issues) 
+[![GitHub issues](https://img.shields.io/github/issues/GenMed/Med-FLSys/issues)](https://github.com/GenMed/Med-FLSys/issues) 
 [![GitHub forks](https://img.shields.io/github/forks/GenMed/Med-FLSys)](https://github.com/GenMed/Med-FLSys/forks) 
 [![GitHub stars](https://img.shields.io/github/stars/GenMed/Med-FLSys)](https://github.com/GenMed/Med-FLSys/) 
-[![GitHub license](https://img.shields.io/github/license/GenMed/Med-FLSys/)](https://github.com/GenMed/Med-FLSys/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/GenMed/Med-FLSys)](https://github.com/GenMed/Med-FLSys/blob/main/LICENSE)
 </div>
 
 
