@@ -1,0 +1,5 @@
+.github/workflows/  @MedGen/maintainers
+MedGen/Med-FLSys/   @Youness
+benchmark/  @MedGen/benchmarkers
+core/      @Youness
+backend/   @Youness
